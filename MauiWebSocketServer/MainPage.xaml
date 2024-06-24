@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiWebSocketServer.MainPage">
+
+    <StackLayout>
+        <Label x:Name="spherePositionLabel" 
+               Text="Sphere Y Position" 
+               FontSize="24"
+               VerticalOptions="CenterAndExpand"/>
+        <Label x:Name="sliderValueLabel" 
+               Text="Rebound Factor" 
+               FontSize="24"
+               VerticalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>
