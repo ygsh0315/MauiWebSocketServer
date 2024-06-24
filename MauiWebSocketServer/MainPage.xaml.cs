@@ -26,7 +26,7 @@ namespace MauiWebSocketServer
             {
                 if (message.StartsWith("SphereY:"))
                 {
-                    spherePositionLabel.Text = "Sphere Y Position: " + message.Substring("SphereY:".Length);
+                    spherePositionLabel.Text = "Height: " + message.Substring("SphereY:".Length);
                 }
                 else if (message.StartsWith("SliderValue:"))
                 {

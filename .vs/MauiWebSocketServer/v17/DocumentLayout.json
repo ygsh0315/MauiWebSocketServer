@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dbsrn\\source\\repos\\MauiWebSocketServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|c:\\users\\dbsrn\\source\\repos\\mauiwebsocketserver\\mauiwebsocketserver\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|solutionrelative:mauiwebsocketserver\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|c:\\users\\dbsrn\\source\\repos\\mauiwebsocketserver\\mauiwebsocketserver\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|solutionrelative:mauiwebsocketserver\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|c:\\users\\dbsrn\\source\\repos\\mauiwebsocketserver\\mauiwebsocketserver\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|solutionrelative:mauiwebsocketserver\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9145C368-B47D-4C62-88AF-1D78DD6CFA35}|MauiWebSocketServer\\MauiWebSocketServer.csproj|c:\\users\\dbsrn\\source\\repos\\mauiwebsocketserver\\mauiwebsocketserver\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 280,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -74,15 +74,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\dbsrn\\source\\repos\\MauiWebSocketServer\\MauiWebSocketServer\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MauiWebSocketServer\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\dbsrn\\source\\repos\\MauiWebSocketServer\\MauiWebSocketServer\\MainPage.xaml.cs",
               "RelativeToolTip": "MauiWebSocketServer\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAA7AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T02:45:58.575Z"
+              "WhenOpened": "2024-06-17T02:45:58.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,13 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\dbsrn\\source\\repos\\MauiWebSocketServer\\MauiWebSocketServer\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiWebSocketServer\\MainPage.xaml",
               "ToolTip": "C:\\Users\\dbsrn\\source\\repos\\MauiWebSocketServer\\MauiWebSocketServer\\MainPage.xaml",
               "RelativeToolTip": "MauiWebSocketServer\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-17T02:43:12.202Z",
               "EditorCaption": ""

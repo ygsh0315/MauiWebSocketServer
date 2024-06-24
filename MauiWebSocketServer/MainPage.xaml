@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Label x:Name="spherePositionLabel" 
-               Text="Sphere Y Position" 
+               Text="Height" 
                FontSize="24"
                VerticalOptions="CenterAndExpand"/>
         <Label x:Name="sliderValueLabel" 
