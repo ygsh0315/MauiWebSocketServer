@@ -13,5 +13,4 @@
                FontSize="24"
                VerticalOptions="CenterAndExpand"/>
     </StackLayout>
-
 </ContentPage>
